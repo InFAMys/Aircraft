@@ -8,40 +8,29 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* Initialize
+* body-parser
+* express
+* mysql
+* jsonwbetoken
+* nodemon (Optional)
+* node_modules Folder (Optional)
+* aircraft.sql Database
+
+### Installing
+
+* First, Initialize With
 ```
 npm init
 ```
-* Dependencies : 
+* Then, Install The Dependencies :
 ```
 npm install body-parser mysql jsonwebtoken express
 ```
-* Optional Dependencies : 
+* (Optional) Install The Dependencies : 
 ```
 npm install nodemon
 ```
 If Error Try This First : 
-```
-npm install nodemon -g
-```
-* (Optional) Folder For Dependencies (node_modules)
-* Database: aircraft.sql
-
-### Installing
-
-* Initialize With
-```
-npm init
-```
-* Install Dependencies :
-```
-npm install body-parser mysql jsonwebtoken express
-```
-* Optional Dependencies : 
-```
-npm install nodemon
-```
-If Error Try This : 
 ```
 npm install nodemon -g
 ```
