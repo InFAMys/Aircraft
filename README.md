@@ -24,6 +24,7 @@ If Error Try This First :
 ```
 npm install nodemon -g
 ```
+* (Optional) Folder For Dependencies (node_modules)
 * Database: aircraft.sql
 
 ### Installing
@@ -45,6 +46,7 @@ If Error Try This :
 npm install nodemon -g
 ```
 * Import Database (aircraft.sql) To Your PhpMyAdmin
+* If You Want To Use My node_modules Folder, Extract Them In Root Directory With index.js, package.json, and package-lock.json
 
 ### Running
 * Run With 
