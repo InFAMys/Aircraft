@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 * mysql
 * jsonwbetoken
 * nodemon (Optional)
-* node_modules Folder (Optional)
+* node_modules Folder, in node_modules.rar (Optional)
 * aircraft.sql Database
 
 ### Installing
