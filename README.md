@@ -25,7 +25,7 @@ If Error Try This First :
 ```
 npm install nodemon -g
 ```
-*aircraft.sql
+* aircraft.sql
 
 ### Installing
 
