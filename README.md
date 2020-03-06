@@ -1,6 +1,6 @@
 # Project Title
 
-Aircraft Shop
+Aircraft Shop, A Project Made By Me For My Class Assignment
 
 ## Getting Started
 
@@ -8,7 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 * Initialize With
 ```
 npm init
@@ -25,11 +24,11 @@ If Error Try This First :
 ```
 npm install nodemon -g
 ```
-* aircraft.sql
+* Database: aircraft.sql
 
 ### Installing
 
-* Run
+* Initialize With
 ```
 npm init
 ```
@@ -45,7 +44,7 @@ If Error Try This :
 ```
 npm install nodemon -g
 ```
-* Import Database ("aircraft.sql") To Your PhpMyAdmin
+* Import Database (aircraft.sql) To Your PhpMyAdmin
 
 ### Running
 * Run With 
@@ -54,5 +53,5 @@ nodemon index
 ```
 If Error Run With 
 ```
-node
+node index
 ```
