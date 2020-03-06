@@ -1,9 +1,9 @@
 # Aircraft
 
-Dependencies Install :
+#Dependencies Install :
 npm install body-parser mysql jsonwebtoken express
 
-Optional Dependencies Install :
+#Optional Dependencies Install :
  npm install nodemon
  
 If Error Try This:
