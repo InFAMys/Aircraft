@@ -1,6 +1,6 @@
-# Project Title
+# Aircraft Shop
 
-Aircraft Shop, A Project Made By Me For My Class Assignment
+A Project Made By Me For My Class Assignment
 
 ## Getting Started
 
